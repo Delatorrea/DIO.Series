@@ -5,10 +5,10 @@
 ### Projeto CLI desenvolvido em C# aplicando os seguintes princípios:
 
 - Orientação a Objetos;
-- Modelagem de dominio;
+- Modelagem de domínio;
 - Padrão MVC;
-- CRUD em memória utiizando coleções;
+- CRUD em memória utilizando coleções;
 - Injeção de dependência;
-- Inversão de controle;
+- Inversão de controle.
 
 
